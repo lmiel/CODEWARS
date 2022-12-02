@@ -1,5 +1,6 @@
 # CODEWARS
-LINK REPOSITORIO: 
+LINK REPOSITORIO: https://github.com/lmiel/CODEWARS.git
+
 ENTREGO SOLO 3 PQ ME ESTAN MATANDO LAS MUELAS
 _______________________________________________________________________________________________________________________________________________________________________
 Resolver los siguientes codewars:
